@@ -1,6 +1,6 @@
 Mancala Game
 1) two players game (human and Ai bot).
-2) we implemtend the Ai bot using minimax Algorithm.
+2) we implemtend the Ai bot using minimax algorithm with alpha beta pruning.
 3) Go try to defeat our bot :grinning:
 
 
